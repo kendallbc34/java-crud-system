@@ -1,0 +1,15 @@
+# Java CRUD System
+
+Desktop application developed in Java that implements Create, Read, Update and Delete operations with database integration.
+
+## Features
+- Create records
+- Read records
+- Update data
+- Delete records
+
+## Technologies
+- Java
+- MySQL
+- JDBC
+- Java Swing
